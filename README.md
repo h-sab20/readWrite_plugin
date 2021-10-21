@@ -1,0 +1,1 @@
+readWrite module in order to create read node from write node 
