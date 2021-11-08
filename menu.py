@@ -8,4 +8,5 @@ import readWrite
 # it expects some parameters, 1- the location we want to add the command 2- the name
 
 nuke.menu("Nuke").addCommand("utilities/create read from write", "readWrite.create_read_from_write", "alt+j")
-# which function called when we click this menu entry, this is the function we define it in readWrite module.
+# which function called when we click this menu entry,
+# this is the function(create_read_from_write) we define it in readWrite module.
